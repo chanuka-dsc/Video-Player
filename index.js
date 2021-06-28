@@ -247,4 +247,3 @@ function animatePlayback() {
 
   fullScreanBtn.addEventListener('click',toggleFullScreen)
 
-console.log('The project is not complete');
